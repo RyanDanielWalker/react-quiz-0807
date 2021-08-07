@@ -31,7 +31,7 @@ align-items: center;
 }
 
 .score {
-  color: white;
+  color: black;
   font-size: 2rem;
   margin: 0;
 }
